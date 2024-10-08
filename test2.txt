@@ -1,4 +1,4 @@
-test1 is uploaded from github page link (file created at github app)
+test1 is uploaded from github page link (file created at github app) git clone link
 
 test2 file is created here and uploaded to github page
    git add
@@ -15,4 +15,7 @@ test2 file is created here and uploaded to github page
    1. git add test2.txt
    2. git commit -m "modified"
    3. git push origin main
-   
+
+   if want to delete file in here and github:
+   1. first delete it here by right click
+   2. in terminal -->  i. git add test2.txt  ii. git commit -m "deleted test2.txt"   iii. get push origin main 
