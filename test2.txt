@@ -10,3 +10,9 @@ test2 file is created here and uploaded to github page
    see the commands below
 
    if untracked message received then start the git add process
+
+   if it is  MODIFIED
+   1. git add test2.txt
+   2. git commit -m "modified"
+   3. git push origin main
+   
