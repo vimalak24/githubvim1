@@ -1,0 +1,12 @@
+test1 is uploaded from github page link (file created at github app)
+
+test2 file is created here and uploaded to github page
+   git add
+   git commit
+   git push
+
+   from local file to git then git to github page website
+
+   see the commands below
+
+   if untracked message received then start the git add process
